@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @AliyanAamir
-- 👀 I’m interested in Web Development, Python Programming, Data Analytics, Data Vizualization.
-- 🌱 I’m currently exploring new technologies in web development.
-- 💞️ I’m looking to collaborate on Next and Django related projects ...
-- 📫 Contact me on my Github!
+# Hi there, I'm Aliyan Aamir 👋
 
-<!---
-AliyanAamir/AliyanAamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 About Me
+- Passionate about **Web Development** and **Python Programming**.
+- Constantly exploring cutting-edge technologies in **web development**.
+- Actively seeking collaboration on **Next.js** and **Django** projects.
+
+### 🌱 Tech Stack
+- **Languages**: Python, JavaScript, TypeScript
+- **Frontend**: React, Next.js, HTML5, CSS3
+- **Backend**: Node.js, Django, Express.js
+- **Databases**: PostgreSQL, Redis
+- **Tools & Platforms**: Docker, Git, Nginx, AWS, Google Cloud
+- **Other Skills**: RESTful APIs, GraphQL, CI/CD, Microservices
+
+### 💞️ Let's Collaborate
+I'm always excited to work on **Next.js** and **Django** projects. If you're working on something interesting in these areas or need help in the tech stack above, feel free to reach out!
+
+### 📫 Contact Me
+You can reach me through my [GitHub](https://github.com/AliyanAamir).
